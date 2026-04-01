@@ -65,7 +65,7 @@ Read these 5 docs to understand the core execution model:
 |---|--------|----------|-------|
 | 1 | [query-loop](core/query-loop-design.md) | [code](core/query-loop-code-ref.md) | Agentic query loop, state machine, 7 error recovery paths |
 | 2 | [tool-system](core/tool-system-design.md) | [code](core/tool-system-code-ref.md) | Tool interface, registry, ~45 tools, MCP composition |
-| 3 | [oversight](core/oversight-design.md) | [code](core/oversight-code-ref.md) | 14-layer Swiss cheese safety model |
+| 3 | [oversight](core/oversight-design.md), [ai-classifier](core/ai-classifier-design.md) | [code](core/oversight-code-ref.md) | 14-layer Swiss cheese safety model |
 | 4 | [context-management](core/context-management-design.md) | [code](core/context-management-code-ref.md) | Context assembly, compression, memory extraction |
 | 5 | [agent-orchestration](core/agent-orchestration-design.md) | [code](core/agent-orchestration-code-ref.md) | Multi-agent orchestration, 5 patterns, swarms |
 
