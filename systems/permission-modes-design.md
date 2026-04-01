@@ -1,7 +1,5 @@
 # Permission Modes — Design Document
 
-# Claude Code: Permission Mode System Design
-
 ## 1. Overview
 
 The permission mode system is a coarse-grained trust dial that shapes the entire permission decision pipeline. When a user starts Claude Code, they select a **permission mode** that expresses their intent: "I want to approve everything manually," "I trust file edits," "let the AI decide for me," or "skip checks entirely." The mode does not replace the permission rules, tool-specific safety checks, or the security scanner -- it sits atop all of them as a **transformation layer** that converts intermediate `ask` decisions into final outcomes.

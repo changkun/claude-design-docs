@@ -1,7 +1,5 @@
 # Tool System — Code Reference
 
-## Part B: Code Reference
-
 ### File Paths
 
 | Component | Path |

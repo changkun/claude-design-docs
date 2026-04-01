@@ -1,13 +1,5 @@
 # Oversight — Code Reference
 
-## Part B: Code Reference
-
-*(All implementation-specific details: file paths, function names, line numbers, type names, and code-level notes.)*
-
-All paths are relative to `src/`.
-
----
-
 ### Permission Decision Types
 
 | Type | Definition | Location |

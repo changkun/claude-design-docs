@@ -1,7 +1,5 @@
 # Plugin & Skill System — Code Reference
 
-## Part B: Code Reference
-
 ### Source Files
 
 | Component | Source File |

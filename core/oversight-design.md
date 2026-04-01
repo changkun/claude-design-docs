@@ -1,12 +1,4 @@
-# Oversight — Design Document
-
-## Part A: Design Document
-
-*(All code-level details removed. This is purely the design, architecture, strategy, and conceptual content.)*
-
----
-
-# Claude Code: Oversight & Human-in-the-Loop System Design
+# Oversight & Human-in-the-Loop System Design — Design Document
 
 This document describes the oversight architecture of Claude Code -- Anthropic's agentic CLI tool -- focusing on how it implements a **Swiss cheese model** of layered safety defenses, how auto mode works, and how human oversight is maintained throughout.
 

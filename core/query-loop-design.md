@@ -1,7 +1,5 @@
 # Query Loop — Design Document
 
-## Part A: Design Document
-
 ### 1. Overview
 
 The query loop is the core execution engine of Claude Code. It implements the agentic contract: the model produces a response, the system executes any requested tools, feeds results back, and loops until the model stops requesting tools.

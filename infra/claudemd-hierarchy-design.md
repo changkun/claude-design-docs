@@ -1,7 +1,5 @@
 # CLAUDE.md Hierarchy — Design Document
 
-## Part A: Design Document
-
 ### 1. Overview
 
 CLAUDE.md is the primary mechanism through which users, teams, and enterprises customize Claude Code's behavior. It is a plain-text markdown file (or set of files) that contains natural-language instructions the model must follow. The system is analogous to `.editorconfig` or `.eslintrc` for AI behavior: it tells the agent what conventions to follow, what tools to prefer, what patterns to avoid, and how to interact with a particular codebase.

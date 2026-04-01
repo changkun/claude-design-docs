@@ -1,7 +1,5 @@
 # KAIROS — Design Document
 
-## Part A: Design Document
-
 ### 1. Overview: What KAIROS Is
 
 KAIROS is Claude Code's **autonomous assistant mode** -- a specialized operating mode that transforms the CLI from a traditional interactive tool into a long-lived, self-directed agent. Where normal Claude Code sessions are user-driven (the user types a prompt, the agent responds, the user types another prompt), KAIROS-mode sessions are **agent-driven**: the agent works autonomously, communicates results asynchronously via a structured messaging tool (`SendUserMessage`), and persists across CLI restarts.

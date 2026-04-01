@@ -1,7 +1,5 @@
 # Command System — Design Document
 
-## Part A: Design Document
-
 ### 1. Overview
 
 Commands are Claude Code's primary user-facing extension surface. When a user types a slash command (e.g., `/commit`, `/help`, `/my-custom-skill`), the system matches the input against a unified registry drawn from multiple distinct sources, dispatches the match to one of three execution models, and integrates the result back into the conversation or terminal UI.

@@ -1,7 +1,5 @@
 # Query Loop — Code Reference
 
-## Part B: Code Reference
-
 ### Source Files
 
 | File | Purpose |

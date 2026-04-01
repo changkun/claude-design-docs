@@ -1,7 +1,5 @@
 # Tool System — Design Document
 
-## Part A: Design Document
-
 ### 1. Overview
 
 The tool system is the mechanism through which Claude Code acts on the world. Every filesystem read, shell command, file edit, subagent launch, web search, and MCP integration flows through a single, uniform tool abstraction. The system's design goals are:

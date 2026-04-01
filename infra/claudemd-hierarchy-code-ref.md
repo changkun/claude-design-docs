@@ -1,7 +1,5 @@
 # CLAUDE.md Hierarchy — Code Reference
 
-## Part B: Code Reference
-
 ### Source Files
 
 | File | Role |

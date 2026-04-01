@@ -1,9 +1,5 @@
 # Auto-Memory — Design Document
 
-### Claude Code Auto-Memory System -- Design
-
----
-
 #### 1. Overview
 
 Claude Code sessions are ephemeral by default. When a conversation ends, its context window evaporates. The auto-memory system maintains a persistent, file-based memory layer that bridges sessions: learnings extracted from one conversation become available context in every subsequent conversation for the same project.

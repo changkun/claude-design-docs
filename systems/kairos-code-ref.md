@@ -1,7 +1,5 @@
 # KAIROS — Code Reference
 
-## Part B: Code Reference
-
 ### File Map
 
 | Component | File(s) | Key Exports / Symbols |

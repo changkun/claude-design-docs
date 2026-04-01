@@ -1,7 +1,5 @@
 # Agent Orchestration — Design Document
 
-### Agent Orchestration -- Design Document
-
 Architecture-level specification of Claude Code's multi-agent orchestration system. Covers agent lifecycle, orchestration patterns, communication protocols, agent definitions, resource management, and the design decisions behind each subsystem.
 
 ---

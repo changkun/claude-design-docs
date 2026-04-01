@@ -1,9 +1,5 @@
 # Context Management — Code Reference
 
-*(All code-level details: file paths, function/class/variable names, line-level implementation notes, code snippets, TypeScript types, import paths, and anything that ties directly to the codebase.)*
-
----
-
 ### System Prompt Construction
 
 **Source file**: `src/constants/prompts.ts`

@@ -1,9 +1,5 @@
 # Feature Flags — Design Document
 
-## Part A: Design Document
-
-### Feature Flag System -- Design Specification
-
 #### 1. Overview
 
 Claude Code gates features behind a **two-tier flag system** that separates build-time decisions from runtime decisions:

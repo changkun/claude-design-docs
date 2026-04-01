@@ -1,7 +1,5 @@
 # Analytics & Telemetry — Design Document
 
-## Part A: Design Document
-
 This section extracts the pure design, architecture, strategy, data flow, invariants, and trade-offs -- all content understandable without reading source code.
 
 ---

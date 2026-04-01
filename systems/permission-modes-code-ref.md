@@ -1,7 +1,5 @@
 # Permission Modes — Code Reference
 
-*(All code-level details: file paths, function/class/variable names, types, line numbers, implementation-specific references)*
-
 All paths are relative to `src/`.
 
 ### Permission Mode Types and Constants

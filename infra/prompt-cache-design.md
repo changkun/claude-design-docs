@@ -1,9 +1,5 @@
 # Prompt Cache -- Design Document
 
-## Part A: Design Document
-
-### Claude Code: Prompt Cache Architecture -- Design Specification
-
 This document analyzes the prompt caching architecture of Claude Code -- Anthropic's agentic CLI tool -- focusing on how it maximizes prompt cache hit rates to reduce API cost and latency across the lifecycle of a session.
 
 ---

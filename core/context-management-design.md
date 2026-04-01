@@ -1,11 +1,5 @@
 # Context Management — Design Document
 
-*(Core design, architecture, strategy, data flow, state machines, invariants, trade-offs, and conceptual content independent of source code.)*
-
----
-
-# Claude Code: Context Management System -- Design Document
-
 ## 1. Vision
 
 Claude Code's context management solves a fundamental tension in agentic AI systems: **the model needs rich, growing context to do useful work, but has a finite context window**. The system's vision is to make context limits invisible to the user -- sessions of arbitrary length should "just work" without the user ever thinking about tokens, windows, or memory.

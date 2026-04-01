@@ -1,7 +1,5 @@
 # MCP Integration — Design Document
 
-## Part A: Design Document
-
 This section contains the architecture, strategy, data flow, state machines, invariants, trade-offs, and conceptual content independent of specific code implementation.
 
 ---

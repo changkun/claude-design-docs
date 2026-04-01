@@ -1,7 +1,5 @@
 # Plugin & Skill System — Design Document
 
-## Part A: Design Document
-
 ### 1. Overview
 
 Claude Code's extensibility system consists of two complementary halves:
