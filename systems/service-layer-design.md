@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-The service layer is the backend substrate of Claude Code. It sits between the query loop / UI layer above and the raw APIs / OS below, providing the abstractions that make an agentic CLI possible: reliable API communication, multi-protocol tool server management, token-aware context compression, cross-session memory synchronization, enterprise policy enforcement, and telemetry routing.
+The service layer is the backend foundation of Claude Code. It sits between the query loop / UI layer above and the raw APIs / OS below, providing the abstractions that make an agentic CLI possible: reliable API communication, multi-protocol tool server management, token-aware context compression, cross-session memory synchronization, enterprise policy enforcement, and telemetry routing.
 
 The services are organized into six functional groups:
 
